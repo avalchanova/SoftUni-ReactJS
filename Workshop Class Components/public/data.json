@@ -1,0 +1,28 @@
+{
+    "todos": [{
+            "id": 1,
+            "label": "Clean your room",
+            "isCompleted": false
+        },
+        {
+            "id": 2,
+            "label": "Clean bathroom",
+            "isCompleted": false
+        },
+        {
+            "id": 3,
+            "label": "Walk the dogs",
+            "isCompleted": false
+        },
+        {
+            "id": 4,
+            "label": "Make breakfast",
+            "isCompleted": false
+        },
+        {
+            "id": 5,
+            "label": "Go to the gym",
+            "isCompleted": false
+        }
+    ]
+}
